@@ -15,8 +15,8 @@ using namespace std;
 
 int main()
 {
-    int total;
-    int diskon;
+    double total;
+    double diskon;
 
     cout << "Masukkan total belanja: ";
     cin >> total;
