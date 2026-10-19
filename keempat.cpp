@@ -28,4 +28,6 @@ int main()
     default:
         cout << "Konsonan" << endl;
     }
+
+    return 0;
 }
