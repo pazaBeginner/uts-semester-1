@@ -39,4 +39,6 @@ int main() {
         default:
             cout << "nomor hari tidak valid" << endl;
     }
+
+    return 0;
 }
